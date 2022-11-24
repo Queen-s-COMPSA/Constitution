@@ -5,6 +5,12 @@ author: Queen's Computing Students' Association
 title: The Constitution
 ...
 
+<div style="text-align: center;">
+![](./archive/oldLogo.png)
+</div>
+
+---
+
 # Personnel
 
 ## Members of the Association Council
