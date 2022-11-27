@@ -1,10 +1,3 @@
----
-numbersections: true
-colorlinks: true
-author: Queen's Computing Students Association
-title: The Constitution
-...
-
 # Personnel
 
 ## Members of the Association Council
@@ -34,7 +27,7 @@ title: The Constitution
 9. Any council member may act as proxy for another member, with preference given
    to elected members
 
-## The Association Executive
+## Association Executive
 
 ### The President
 
@@ -147,7 +140,7 @@ title: The Constitution
 6. The VPU may regularly delegate any of their responsibilities when
    granted two thirds approval from a vote held during a General Assembly.
 
-## The Association Commissioners 
+## Association Commissioners 
 
 1. All Association Commissioners shall be hired in Accordance with the
    [Operations Policy Manual]() 2.1, with the incoming Executive acting as the
@@ -349,3 +342,59 @@ title: The Constitution
 9. The Marketing Commissioner  shall attend and represent the Association at the
    School of Computing Marketing Committee to improve our reach to prospective
    students.
+
+## Elected Representatives of the Association
+
+### Year Representatives
+
+1. All Year Representatives shall work to maintain communication with all
+   students. 
+2. All Year Representatives shall be responsible for communicating academic and
+   social event information to all students along with the marketing
+   commissioner.
+3. All Year Representatives shall encourage students of their year to rely on
+   academic support systems available to them.
+4. All Year Representatives shall be in charge of the Buddy Program which
+   includes: ensuring buddy groups are established no later than the third week
+   of the first term as well as running multiple buddy events throughout the
+   year.
+
+### First Year Representatives
+
+1. The First Year Representative shall be an ordinary member of COMPSA enrolled
+   in their first year of studies. 
+2. The First Year Representative shall be responsible for the organization and
+   execution of Cover Your Crest. 
+3. The First Year Representative shall represent the Association on the Agnes
+   Benedickson Tricolour Award Selection Committee.
+
+### Upper Year Representatives
+
+1. There shall be at most one representative for second, third, and fourth
+   year.
+2. All Upper Year Representatives shall inform students of the Queen’s
+   University Internship Program, including relevant information sessions and
+   deadlines. 
+3. All Upper Year Representatives shall be responsible for organizing the
+   graduating class photo shoot. 
+4. All Upper Year Representatives shall liaise with students currently away
+   from the School on internship. 
+5. All Upper Year Representatives shall represent the Association on ThankQ,
+   the Graduating Class Gift Program.
+
+## Association Deputy Commissioners
+
+1. All Deputy Commissioners shall work directly with their supervising
+   Commissioner, and aid in the effective operations of their Commission.
+
+### Deputy Commissioner of Marketing
+
+1. The Deputy Marketing Commissioner shall be responsible for the maintenance
+   of the COMPSA Website, including but not limited to: adding notices and
+   updates on events run by COMPSA as well as updating the website when
+   requested by a council member.
+2. The Deputy Marketing Commissioner shall be responsible for graphics design
+   work needed by members of Council .
+3. The Deputy Marketing Commissioner shall represent the Association at the
+   Information Technology Service's (ITS) IT Advisory Council.
+

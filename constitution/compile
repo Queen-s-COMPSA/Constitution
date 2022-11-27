@@ -1,0 +1,33 @@
+#!/bin/sh
+#
+# Cain Susko -- 2022.11.26
+# 
+# Compiles the COMPSA constitution to pdf using pandoc
+
+
+# Check that pandoc is installed.
+if ! type "pandoc" > /dev/null; then
+        echo "#############################################################"
+        echo "You must install pandoc to compile the constitution."
+        echo "Ubuntu:  sudo apt install pandoc"
+        echo "Mac:     brew install pandoc"
+        echo "Windows: install wsl from the Windows store, then use Ubuntu"
+        echo "#############################################################"
+        exit 1
+fi
+
+# check that cwd is correct. 
+if ! find 'compile' -maxdepth 0 > /dev/null; then
+        echo "#############################################################"
+        echo "make sure you're in the 'constitution/' directory before running the compile script"
+        echo "#############################################################"
+        exit 2
+fi
+
+# make the order in which the constitution should be formatted.
+constitution="Title.md Personnel.md HumanResources.md AssociationAssemblies.md SpeakerAndDeputySpeaker.md ElectionsAndReferenda.md FinancialPolicy.md Transition.md Awards.md ExternalAffairs.md VisualIdentity.md"
+
+# compile the constitution to pdf.
+pandoc $constitution -o ../constitution.pdf
+
+exit 0
