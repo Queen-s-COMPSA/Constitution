@@ -36,8 +36,8 @@
 1. Each submitted nomination shall be accompanied by fifty (50) members’
    signatures to be considered valid. 
 2. Proof of membership shall be provided in the form of a student number for
-   each signing student. These shall be validated by the CEO and CRO after the
-   close of nominations. 
+   each signing student. These shall be validated by the Governance Director
+   and CRO after the close of nominations. 
 3. Nominees on exchange or internship may forward fifteen (15) emails of
    support to the CEO in lieu of the fifty (50) signatures. These emails must
    contain the statement “I hereby nominate [name of candidate] for the

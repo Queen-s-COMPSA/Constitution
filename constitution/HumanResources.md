@@ -50,10 +50,12 @@
    procedure -- including due date, the interview dates, as well as Contact
    information for a member of Selection Committee.
 3. The application form may address the specific needs of the position, but at
-   a minimum must request: name, address, phone number, year, and student
-   number of the applicant; Reason for interest in the position; Reasons for
-   suitability for the position; Ideas for the position and work of the
-   position; Current Resume.
+   a minimum must request: 
+   - name, address, phone-number, year, and student number of the applicant; 
+   - Reason for interest in the position;
+   - Reasons for suitability for the position;
+   - Ideas for the position and work of the position;
+   - Current Resume.
 4. Applications must be submitted either physically or by email on or before
    the due date, to the member of the Selection Committee identified by the
    application or dropped off at the Computing Main Office .
@@ -71,13 +73,14 @@
 4. All questions must be within the guidelines of the Charter of Rights and
    Freedoms and/or the Ontario Human Rights Code. No questions deemed sexist,
    racist, homophobic or classist may be asked of any candidate
-5. At the beginning of the interview, the Selection Committee shall: Introduce
-   themselves; State academic standing stipulations; Provide a brief
-   description of the position, including time commitment; State when the
-   applicant will be notified of the Committee’s decision; Provide an
-   opportunity for the candidate to ask questions; Inform the candidate that
-   the Selection Committee will be taking notes; Allow the Candidate to review
-   their application
+5. At the beginning of the interview, the Selection Committee shall: 
+   - Introduce themselves;
+   - State academic standing stipulations;
+   - Provide a brief description of the position, including time commitment;
+   - State when the applicant will be notified of the Committee’s decision;
+   - Provide an opportunity for the candidate to ask questions;
+   - Inform the candidate that the Selection Committee will be taking notes;
+   - Allow the Candidate to review their application
 6. At the conclusion of the interview, the applicant shall be given an
    opportunity to ask questions or add comments 
 7. The Selection Committee shall leave an appropriate amount of time between

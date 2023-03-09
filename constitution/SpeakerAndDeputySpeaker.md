@@ -90,7 +90,7 @@
    If the Internal Affairs Commissioner is unable to fulfill these duties for
    any reason, any conflicts shall be handled through the appropriate ASUS
    Committee/Office. 
-0. During a regular leave of absence of the Speaker, the Judicial and Human
+0. During a leave of absence of the Speaker, the Judicial and Human
    Resources duties will be filled by the Internal Affairs Commissioner. 
 1. If an issue arises during an election or referendum, where a candidate has a
    disagreement with a penalty issued by the CEO, the COMPSA Speaker shall act

@@ -3,7 +3,7 @@
 1. The Association shall maintain and present the The Howard Stavely Teaching
    Award; The President’s Award; and the Gradum Dominus Machinarum Award
 
-## The Howard Stavely Teaching Award
+## The Howard Staveley Teaching Award
 
 1. Howard Staveley started working at Queen's University in 1966. He became an
    adjunct instructor for the department of Computing and Information Science
