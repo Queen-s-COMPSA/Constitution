@@ -79,7 +79,7 @@
    outlined in the Operations Policy Manual
 6. The VPO shall work to increase Computing participation in athletics through
    intramural sports, _BEWIC_, Capture the Facility, and other ways they see fit.
-7. The VPO shall oversee and support all Association affiliated teams
+7. The VPO shall oversee and support all Association affiliated sports teams teams
 8. The VPO shall oversee the finances of Computing Orientation Week as outlined
    in the [Orientation Policy Manual]()
 9. The VPO shall hold regular meetings with the Orientation Chair and Finance
@@ -134,7 +134,7 @@
    outlined in Operations Policy Manual Sections 3 & 5, in the event that the
    Speaker is not selected. 
 4. The VPSA shall act as Deputy Speaker of Council Meetings adhering to policies
-   outlined in Operations Policy Manual Section 3.
+   outlined in [section 3](#association-assemblies) and [section 5](#elections-and-referenda) of this document.
 5. The VPSA shall seek out, evaluate, and promote to students in the Association
    resources provided by the Alma Mater Society.
 6. The VPSA may regularly delegate any of their responsibilities when
@@ -186,7 +186,7 @@
    Tutoring Service, ensuring to inform the student that the service offers
    tutors who are computing students.
 2. The Academic Affairs Director shall keep the COMPSA tutoring page up to
-   date with the [Marketing Director](#marketing-Director).
+   date with the [Marketing Director](#marketing-director).
 
 ### Equity Director
 
@@ -204,7 +204,7 @@
    Association events are a _safe space_ for all attendees 
 5. The Equity Director shall be responsible for the
    organization of bursaries for equity based conferences including but not
-   limited to _ONWIC_.
+   limited to _Ontario Women In Computing_.
 6. The Equity Director shall be responsible for working with
    the Events Directors to ensure that the events offered by the Association
    take into consideration equity related issues.
@@ -218,18 +218,18 @@
 
 1. The Events Director shall plan and organize all social events that are
    not covered by the duties of other members of the Council.
-2. The Events Director shall deliver all money raised at social events to
-   the Finance Director with a report describing costs associated with the
-   event and income generated.
-3. The Events Director shall, as a team, organize 
-   - regular social nights,
-   - holiday Secret Santa & potluck, 
+2. The Events Director shall organize 
+   - Regular social nights,
    - The Welcome Back Barbecue, 
    - Weekly Coffee with Profs, 
-   - and the LAN Party,
+   - Holiday Secret Santa & potluck, 
+   - The LAN Party,
    - The Fall Semi-Formal,
-   - the Year End Computing Banquet,
-   - one additional event per term.
+   - The Year End Computing Banquet,
+   - One additional event per term.
+3. The Events Director shall deliver all money raised at social events to
+   the Finance Director with a report describing costs associated with the
+   event and income generated.
 
 ### Finance Director
 

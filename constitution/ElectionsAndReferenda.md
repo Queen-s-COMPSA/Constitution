@@ -43,9 +43,6 @@
    contain the statement “I hereby nominate [name of candidate] for the
    position of [position name] within the Computing Students’ Association.”
    along with the nominating student’s name and student number. 
-4. Each Candidate shall submit a deposit in the amount of thirty (30) dollars,
-   which can be used a fines for campaign violations. The deposit, or remaining
-   balance, will be returned after the completion of the election. 
 5. Once a nomination package has been submitted, if the applicant already holds
    a position within the Association, they shall take a leave of absence until
    the results have been announced.
