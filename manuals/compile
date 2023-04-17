@@ -1,0 +1,12 @@
+#!/bin/bash
+#
+# Cain Susko -- 2023.04.04
+#
+# Usage:
+# chmod +x ./compile
+#
+# ./compile file 
+# (no filytype suffix, assumed to be .md)
+
+pandoc "$1.md" -o "$1.pdf" --filter mermaid-filter
+
