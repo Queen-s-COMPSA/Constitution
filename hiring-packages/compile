@@ -1,0 +1,7 @@
+pandoc Academics.md -o Academics.pdf
+pandoc Equity.md -o Equity.pdf
+pandoc PD.md -o PD.pdf
+pandoc IA.md -o IA.pdf
+pandoc Finance.md -o Finance.pdf
+pandoc Events.md -o Events.pdf
+pandoc Marketing.md -o Marketing.pdf

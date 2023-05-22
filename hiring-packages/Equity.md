@@ -1,6 +1,7 @@
 ---
 title: 2023-24 Equity Hiring Package
 author: The Queen's Computing Students' Association
+colorlinks: true
 ---
 
 # Who We Are
