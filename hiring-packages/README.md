@@ -1,6 +1,6 @@
-# Welcome to the COMPSA GitHub !
+# Welcome to the Hiring Page !
 
-Please take a look at the hiring package your interested in !
+Please take a look at the hiring packages you're interested in !
 
 Each hiring package contains the general information about the qualities of
 each team. The [Team Positions](./TeamPositions.pdf) document outlines the
