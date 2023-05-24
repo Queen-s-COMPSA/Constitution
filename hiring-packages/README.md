@@ -11,5 +11,5 @@ To apply to a team, please fill out the form:
 
 [here](https://forms.gle/LfQKixPRW93b4rNT6)
 
-Note: you cannot click the links in the pdf's above unless you download the document. Otherwise, please use the link above, or view the documents in the [source folder](./source/)
+Note: you cannot click the links in the pdf's unless you download the document. Otherwise, please use the link above, or view the documents in the [source folder](./source/)
 
