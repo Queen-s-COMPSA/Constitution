@@ -1,16 +1,14 @@
-# Introduction
-This repository contains The COMPSA Constitution and older versions which may be
-useful for reference in the future.
+> Welcome to the COMPSA Constitution Repository
+>
+> *Your place for all things documentation*
+> 
+> **Check out the wiki for more information about working on this repo
 
-# Constitution
+This repo contains
 
-The constitution is contained in `./constitution` and is broken up into its
-respective parts for ease of editing and comprehension. To compile the
-constitution run the `compile` script from `./constitution/`. This will create
-`./constitution.pdf`
+- The COMPSA Constitution
+- COMPSA General Assembly Minutes
+- COMPSA Operations Manuals
+- COMPSA Internal Newsletters
 
-# Archive
-
-This is the place where any older or out of date documents pertaining to the
-constitution can be stored. It is merely meant as a place of reference for the
-future.
+Among other important documents
