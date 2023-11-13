@@ -48,6 +48,7 @@ The newsletters are released on a schedule such that:
 
 The Scribe & Policy Officer are responsible for collecting all of the
 information for the newsletter. Information must be collected from:
+
 ```
 PRES - The President
 VPOP - VP Operations
@@ -63,12 +64,32 @@ SOCS - Socials
 
 ACAD - Academics
 EQTY - Equity
-PROD - Professional Development
+PDEV - Professional Development
+```
+
+## Info Collection Template
+
+This markdown should be used as a message template when contacting people about
+updates for the newsletter
+
+```markdown
+### Newsletter Updates :)
+
+Hi [$DIRECTOR | $EXEC] ! We (the scribes @ IA) were wondering if you had any
+info to add to the upcoming internal newsletter. For some inspiration, it could
+include:
+
+- Cool accomplishments
+- Exciting plans
+- Anything else you'd like tell people about!
+
+If there's anything you'd like to add, just make sure u reply by this coming
+friday :))
 ```
 
 # Distrubution
 
-- The internal newsletter is sent bia. discord, normally in an announcement
+- The internal newsletter is sent via. discord, normally in an announcement
 - The Student newsletter is distrubuted using:
   > Not sure yet, but I think it might be possible to use GSuite
 
