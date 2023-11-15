@@ -1,14 +1,18 @@
 > Welcome to the COMPSA Constitution Repository
 >
 > *Your place for all things documentation*
-> 
-> **Check out the wiki for more information about working on this repo
 
-This repo contains
+This repo contains:
 
-- The COMPSA Constitution
-- COMPSA General Assembly Minutes
-- COMPSA Operations Manuals
-- COMPSA Internal Newsletters
+- [The Constitution](./constitution)
+  > Outlines all the things COMPSA has to do 
 
-Among other important documents
+- [General Assembly Minutes](./ga-minutes) 
+  > Summarizes each General Assembly, in particular the votes passed
+
+- [Operations Manuals](./operation-manuals) 
+  > Manuals for how-to-COMPSA -- (Work In Progess)
+  
+- [Internal Newsletters](./newsletters)
+  > Synopsis of what COMPSA has been up to. Used to create the student-wide
+  newsletter
