@@ -7,7 +7,7 @@ This repo contains:
 - [The Constitution](./constitution)
   > Outlines all the things COMPSA has to do 
 
-- [General Assembly Minutes](./ga-minutes) 
+- [General Assembly Minutes](./meeting-minutes) 
   > Summarizes each General Assembly, in particular the votes passed
 
 - [Operations Manuals](./operation-manuals) 
