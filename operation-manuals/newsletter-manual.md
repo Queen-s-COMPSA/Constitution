@@ -12,22 +12,50 @@ out of The Association can be informed about what work has been done.
 Governanve & Culture (G&C) is responsible for collecting information needed to
 then also create and distribute both an **Internal & Student** newsletter.
 
-[//]: # (These are just test ideas)
-[//]: # (Newsletter::Responsibility.fallsOn[IA])
-[//]: # (Newsletter::Types.are[Internal, Student])
+# Scheduling
 
-## Schedule 
+The Internal and Student newsletters are released as follows:
 
-The newsletters are released on a schedule such that:
+| Newsletter | Frequency     | Starts on                             | 
+|------------|---------------|---------------------------------------| 
+| Internal   | biweekly      | The Friday before the first All Hands | 
+| Student    | every 3 weeks | The Monday of the first GA            |
 
-| Type      | Frequency     | Day    | starts on                  |
-|-----------|---------------|--------|----------------------------|
-| Internal  | Biweekly      | Friday | Friday before the first GA |
-| Student   | Every 3 Weeks | Monday | Monday of the first GA     |
+Consider this sequence diagram which includes
+the [Meeting Schedule](meetings-manual.md#schedule) along with the newsletter
+release schedule:
+
+```mermaid
+sequenceDiagram
+   actor NL as Newsletter     
+   actor SPO as Scribe & Policy Officer
+
+    participant GA as General Assembly
+    participant AH as All Hands
+    participant CM as Council Meeting
+   
+   GA ->>+ CM : First Monday
+   CM -->>- SPO : Compile Minutes
+   
+   SPO ->> NL : Release Internal Newsletter
+   
+   CM ->>+ AH : Second Monday
+   AH -->>- SPO : Compile Minutes 
+
+   AH ->>+ CM : Third Monday
+   
+   CM -->>- SPO : Compile Minutes
+   SPO ->> NL : Release Internal Newsletter
+
+   CM ->>+ GA : Fourth Monday
+   GA -->>- SPO : Compile Minutes
+
+   SPO ->> NL : Release student newsletter
+```
 
 # Process
 
-## 1. Internal Newsletter
+## Internal Newsletter
 1. Collect info from Directors & Presidents about what is coming up / going
    on for each portfolio in the week before the newsletter is due
 2. Write it all down nicely in a markdown file in this repo
@@ -35,7 +63,7 @@ The newsletters are released on a schedule such that:
    first
 
 
-## 2. Maintain Monthly Student Newsletter
+## Student Newsletter
 1. Summarize the last 2 Internal Newsletters to include only things
    important to students, making it quick and easy to read
 2. Also summarize the most recent GA's minutes to give updates and bring
@@ -69,8 +97,10 @@ PDEV - Professional Development
 
 ## Info Collection Template
 
-This markdown should be used as a message template when contacting people about
-updates for the newsletter
+This markdown can be used as a message template when contacting people about
+updates for the newsletter -- however its always best to ask more personalized
+questions based on any info you gathered beforehand (like from a prior meeting,
+where you just need more details for it)
 
 ```markdown
 ### Newsletter Updates :)
@@ -87,11 +117,14 @@ If there's anything you'd like to add, just make sure u reply by this coming
 friday :))
 ```
 
-# Distrubution
+# Distribution
 
-- The internal newsletter is sent via. discord, normally in an announcement
-- The Student newsletter is distrubuted using:
-  > Not sure yet, but I think it might be possible to use GSuite
 
-- The mailing list for all the students in the School of Computing can be
+- The internal newsletter 
+  is **sent via. discord**, normally in an announcement
+
+- The Student newsletter is distributed using:
+   Not sure yet, but I think it might be possible to use GSuite.
+
+  The mailing list for all the students in the School of Computing can be
   procured from the SoC administration (ie. Karen Knight)

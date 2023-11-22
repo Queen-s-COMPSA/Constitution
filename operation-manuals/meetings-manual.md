@@ -14,13 +14,11 @@ meetings.
 
 There are three recurring compsa-wide meetings that happen throughout the year:
 
-| interval      | Meeting           |
-|---------------|-------------------|
-| every 3 weeks | General Assembly  |
-| biweekly      | Council Meeting   |
-| biweekly      | All Hands Meeting |
-
-[//]: # ([`Meetings::Types = {GA, Council, AllHands}`])
+| interval      | Meeting               |
+|---------------|-----------------------|
+| every 3 weeks | General Assembly (GA) |
+| biweekly      | Council Meeting       |
+| biweekly      | All Hands Meeting     |
 
 One of these meetings happens Each week. General Assemblies & All Hands
 Meetings happen every 4 weeks; Council Meetings happen every 2 weeks. 
@@ -37,24 +35,37 @@ consecutively and on the the same day of the week
 | 2    | All Hands Meeting |
 | 3    | Council Meeting   |
 
-\pagebreak
+Additionally, the Meetings should begin at the start of the year as follows:
+
+| Meeting          | Start                                    |
+|------------------|------------------------------------------|
+| All Hands        | Monday before first GA                   |
+| General Assembly | First possible Monday of the school year |
+
+And after this, the 
 
 Consider the sequence diagram (because compsci) illustrating the meeting
 schedule interval:
 
 ```mermaid
-sequenceDiagram
-        
-        actor GA as General Assembly
-        actor CM as Council Meeting
-        actor AH as All Hands Meeting
-        
-        GA ->> CM : 1st Monday after GA
-        
-        CM ->> AH : 2nd Monday after GA
-        AH ->> CM : 3rd Monday after GA
-        
-        CM ->> GA : 4th Monday after GA
+stateDiagram-v2
+
+GA : General Assembly
+CM : Council Meeting
+AH : All Hands Meeting
+
+state startOfYear{
+    FAH : First All Hands
+    FGA : First General Assembly
+}
+
+FAH --> FGA : First possible monday of the school year
+FGA --> CM : First Monday after GA
+
+GA --> CM : First Monday after GA
+CM --> AH : Second Monday after GA
+AH --> CM : Third Monday after GA
+CM --> GA : Fourth Monday after GA
 ```
 
 Note: In the past, Monday; 5-6, in Walter Light 210 and the COMPSA Office has
