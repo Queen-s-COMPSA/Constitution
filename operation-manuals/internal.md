@@ -1,7 +1,8 @@
 ---
-title: Meetings Operations Manual
-subtitle: Queen's Computing Students' Association
-date: November 2023
+title: Internal Affairs 
+subtitle: Operations Manual
+author: Queen's Computing Students' Association
+date: April 2024
 ---
 
 # Meetings
@@ -9,18 +10,16 @@ date: November 2023
 Meetings are critical to ensuring there is strong communication within
 COMPSA; making sure everyone is on the same page.
 
-Governance & Culture is responsible for scheduling and managing all COMPSA-wide
+Internal Affairs is responsible for scheduling and managing all COMPSA-wide
 meetings.
 
 There are three recurring compsa-wide meetings that happen throughout the year:
 
-| interval      | Meeting           |
-|---------------|-------------------|
-| every 3 weeks | General Assembly  |
-| biweekly      | Council Meeting   |
-| biweekly      | All Hands Meeting |
-
-[//]: # ([`Meetings::Types = {GA, Council, AllHands}`])
+| Meeting           | interval      |
+|-------------------|---------------|
+| General Assembly  | every 3 weeks |
+| Council Meeting   | biweekly      |
+| All Hands Meeting | biweekly      |
 
 One of these meetings happens Each week. General Assemblies & All Hands
 Meetings happen every 4 weeks; Council Meetings happen every 2 weeks. 
@@ -94,23 +93,14 @@ should be followed by a small social for volunteer appreciation.
 
 While Governance & Culture handles organizing the meeting, it is traditional for the Exec to
 manage the volunteer appreciation afterwards.
----
-title: Newsletter Operations Manual
-author: Queen's Computing Students' Association
-date: November 2023
----
 
 # Newsletters
 
 Newsletter are maintained by COMPSA in order to ensure that everyone inside and
 out of The Association can be informed about what work has been done.
 
-Governanve & Culture (G&C) is responsible for collecting information needed to
-then also create and distribute both an **Internal & Student** newsletter.
-
-[//]: # (These are just test ideas)
-[//]: # (Newsletter::Responsibility.fallsOn[IA])
-[//]: # (Newsletter::Types.are[Internal, Student])
+IA is responsible for collecting information needed to then also create and
+distribute both an **Internal & Student** newsletter.
 
 ## Schedule 
 
@@ -118,8 +108,8 @@ The newsletters are released on a schedule such that:
 
 | Type      | Frequency     | Day    | starts on                  |
 |-----------|---------------|--------|----------------------------|
-| Internal  | Biweekly      | Friday | Friday before the first GA |
-| Student   | Every 3 Weeks | Monday | Monday of the first GA     |
+| Print     | Biweekly      | Friday | Friday before the first GA |
+| Email     | Every 3 Weeks | Monday | Monday of the first GA     |
 
 # Process
 
