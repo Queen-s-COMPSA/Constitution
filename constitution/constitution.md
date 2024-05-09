@@ -1,10 +1,16 @@
-::: {style="text-align: center;"}
-![](formalCompsaLogo.png)
-:::
+---
+title: The Constitution
+author: Queen's Computing Students' Association
+numbersections: true
+colorlinks: true
+format: pdf
+...
 
-```{=tex}
+
+![](formalCompsaLogo.png)
+
 \pagebreak
-```
+
 # Personnel
 
 ## Members of the Association Council
